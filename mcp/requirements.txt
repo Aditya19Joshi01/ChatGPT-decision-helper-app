@@ -1,0 +1,9 @@
+# FastMCP - The core framework for building MCP servers
+fastmcp>=0.1.0
+
+# Pydantic - Type validation and schema generation
+pydantic>=2.0.0
+
+# Optional but useful for development
+# uvicorn - ASGI server (FastMCP uses this internally)
+uvicorn>=0.24.0
