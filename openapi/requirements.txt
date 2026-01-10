@@ -1,0 +1,8 @@
+# FastAPI - Web framework for building APIs
+fastapi>=0.104.0
+
+# Uvicorn - ASGI server to run FastAPI
+uvicorn[standard]>=0.24.0
+
+# Pydantic - Data validation and settings management
+pydantic>=2.0.0
